@@ -1,0 +1,19 @@
+{
+  "name": "قراء الوحي — تلاوة وتسميع القرآن الكريم",
+  "short_name": "قراء الوحي",
+  "description": "تلاوة القرآن الكريم مع مساحة منفصلة للتسميع الذاتي من الحفظ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0e1c33",
+  "theme_color": "#0e1c33",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-192-maskable.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
